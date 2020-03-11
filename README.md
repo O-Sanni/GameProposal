@@ -39,3 +39,6 @@ I am planning to have 15 inventions:
 14.Steel
 15.Transistors
 
+
+website with information on the inventions is:
+https://interestingengineering.com/35-inventions-that-changed-the-world

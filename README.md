@@ -1,5 +1,6 @@
 # GuessGameProposal
-![alt text](https://github.com/OlgaSannikov/guessinggameproposal/blob/master/assets/1st%20Page.png "First page")
+![alt text](https://github.com/OlgaSannikov/GuessGameProposal/blob/master/assets/1st%20Page.png "First page")
+![alt text](https://github.com/OlgaSannikov/GuessGameProposal/blob/master/assets/page%202.jpg "Second page")
 
 The first page of the game will be a welcome page, It will continue two buttons start game and another is a rule
 The rules are:

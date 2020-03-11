@@ -8,13 +8,16 @@ The first page of the game will be a welcome page, It will continue two buttons 
 The rules are:
 You are the gardian of the book which contains the information about the invantions which changed the world. 
 There are an evil wizard who stole 3 pages from the book which contains the important inventions .
-In order to return those pages you need to play the game. You will play the game "pincess, knight and dragon", similar to "rock, scissors and paper". You need to win 3 mini games out of 5 in order to win one page. You then have a choice quite or continue playing. 
+In order to return those pages you need to play the game. You will play the game "water, fire, earth, air", similar to "rock, scissors and paper". You need to win 3 mini games out of 5 in order to win one page. You then have a choice quite or continue playing. 
 If  you loose, the wizzard will change the history. 
 You need to win 3 games in order to win the game.
-Rules of "pincess, knight and dragon":
-Dragon stoling the princess (dragon win, princess loose);
-Princess stoles knight's heart(princess win's, knight loose);
-Knight beat dragon (knight wins, dragon loose);
+Rules of "water, fire, earth, air":
+Fire dry out earth (fire wins)
+Fire and air works togather ( both wins)
+Earth makes water dirty ( Earth wins)
+Water put out fire (water wins)
+Air dry out Water (air wins)
+Air and earth does not comme into the fight (none of them wins);
 
 
 
